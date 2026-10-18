@@ -1,0 +1,22 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+*.userprefs
+
+## Salidas locales de los servicios
+data/
+*.jsonl
+*.log
+
+## Docker
+.dockerignore
+
+## Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
